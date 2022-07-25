@@ -1,0 +1,319 @@
+,name,id,display_name,type
+0,shoppable_recipes_desserts,7336057,Shoppable Recipes Desserts,feature_page
+1,mothers_day,6854262,Mother's Day,holiday
+2,tasty_s_5th_birthday_sweet,5993378,Tasty's 5th Birthday: Sweet,feature_page
+3,best_of_tasty,5831534,Best of Tasty,business_tags
+4,chefs_knife,1280501,Chef's Knife,equipment
+5,whisk,1247793,Whisk,equipment
+6,plastic_wrap,1247784,Plastic Wrap,equipment
+7,rolling_pin,1280512,Rolling Pin,equipment
+8,cutting_board,1280503,Cutting Board,equipment
+9,dry_measuring_cups,1280507,Dry Measuring Cups,equipment
+10,wooden_spoon,1247794,Wooden Spoon,equipment
+11,liquid_measuring_cup,1280506,Liquid Measuring Cup,equipment
+12,mixing_bowl,1280510,Mixing Bowl,equipment
+13,big_batch,65851,Big Batch,cooking_style
+14,kid_friendly,64488,Kid-Friendly,cooking_style
+15,bake,64492,Bake,cooking_style
+16,breakfast,64483,Breakfast,meal
+17,casual_party,64503,Casual Party,occasion
+18,brunch,64484,Brunch,occasion
+19,indulgent_sweets,65850,Indulgent Sweets,occasion
+20,bakery_goods,65857,Bakery Goods,meal
+21,american,64444,American,cuisine
+22,oven,65846,Oven,appliance
+23,drinks,64487,Drinks,meal
+24,5_ingredients_or_less,64470,5 Ingredients or Less,difficulty
+25,low_calorie,8091916,Low-Calorie,healthy
+26,tips_viral,6718867,Tips Viral,feature_page
+28,easy,64471,Easy,difficulty
+29,gluten_free,64465,Gluten-Free,dietary
+30,hand_mixer,65844,Hand Mixer,appliance
+31,vegetarian,64469,Vegetarian,dietary
+32,under_1_hour,8091748,Under 1 Hour,difficulty
+33,under_45_minutes,8091747,Under 45 Minutes,difficulty
+34,high_protein,8091917,High-Protein,healthy
+38,kid_friendly,64488,Kid-Friendly,dietary
+39,fusion,65410,Fusion,cuisine
+40,stove_top,65848,Stove Top,appliance
+41,cake_pan,1247768,Cake Pan,equipment
+44,sieve,1280513,Sieve,equipment
+45,fish_spatula,1280504,Fish Spatula,equipment
+47,steam,64498,Steam,method
+49,japanese,64454,Japanese,cuisine
+53,comfort_food,64462,Comfort Food,dietary
+54,measuring_spoons,1280508,Measuring Spoons,equipment
+59,freezer,65843,Freezer,appliance
+61,spatula,1247788,Spatula,equipment
+64,baking_pan,1280500,Baking Pan,equipment
+65,pyrex,1247785,Pyrex,equipment
+68,indulgent_sweets,65850,Indulgent Sweets,dietary
+71,oven_mitts,1247775,Oven Mitts,equipment
+72,christmas,64473,Christmas,holiday
+75,bake,64492,Bake,method
+81,dairy_free,64463,Dairy-Free,dietary
+86,saute_pan,1247787,Saute Pan,equipment
+92,one_pot_or_pan,65855,One-Pot or Pan,cooking_style
+94,pan_fry,65859,Pan Fry,cooking_style
+96,healthy,64466,Healthy,dietary
+99,cast_iron_pan,65840,Cast Iron Pan,appliance
+101,tips_basics,6718864,Tips Basics,feature_page
+105,pan_fry,65859,Pan Fry,method
+140,blender,65838,Blender,appliance
+142,low_fat,8091919,Low-Fat,healthy
+143,low_sugar,8091918,Low-Sugar,healthy
+156,big_batch,65851,Big Batch,dish_style
+163,low_carb,64467,Low-Carb,healthy
+164,charcuterie_breakfast,8030032,Charcuterie Breakfast,feature_page
+165,nynm_protein,6543464,NYNM Protein,feature_page
+167,mashup,65852,Mashup,cooking_style
+168,snacks,64491,Snacks,meal
+182,bread_pan,1247767,Bread Pan,equipment
+190,winter,64511,Winter,seasonal
+191,weeknight,64505,Weeknight,occasion
+199,british,64447,British,cuisine
+204,comfort_food,64462,Comfort Food,cooking_style
+229,high_fiber,8091920,High-Fiber,healthy
+243,french,64449,French,cuisine
+256,cooking_kit,1280498,Cooking Kit,business_tags
+266,offset_spatula,1280511,Offset Spatula,equipment
+279,special_occasion,188967,Special Occasion,occasion
+280,desserts,64485,Desserts,meal
+282,no_bake_desserts,65854,No Bake Desserts,dish_style
+287,tongs,1247790,Tongs,equipment
+306,cupcake_pan,1247771,Cupcake Pan,equipment
+314,tasty_junior_cookbook,64507,Tasty Junior Cookbook,business_tags
+331,zipper_storage_bags,1247796,Zipper Storage Bags,equipment
+335,meal_prep,65853,Meal Prep,dish_style
+342,under_15_minutes,8091744,Under 15 Minutes,difficulty
+343,under_30_minutes,64472,Under 30 Minutes,difficulty
+349,microwave,65845,Microwave,appliance
+355,keto,8091756,Keto,dietary
+377,qfp_recipes,5812430,Quarantine Cooking: Recipe,feature_page
+405,parchment_paper,1247780,Parchment Paper,equipment
+407,baking_kit,1280497,Baking Kit,business_tags
+408,date_night,64500,Date Night,occasion
+439,stuffed,65856,Stuffed,dish_style
+474,one_pot_or_pan,65855,One-Pot or Pan,dish_style
+484,epoca_walmart,1691104,Epoca-Walmart,business_tags
+507,summer,64510,Summer,seasonal
+510,no_bake_desserts,65854,No Bake Desserts,cooking_style
+547,cooling_rack,1280502,Cooling Rack,equipment
+565,spring_holiday,6718874,Spring Holiday,feature_page
+569,baking_cups,1280499,Baking Cups,equipment
+578,vegan,64468,Vegan,dietary
+585,sauce_pan,1247786,Sauce Pan,equipment
+589,strainer,1247789,Strainer,equipment
+598,mccormick_ugc_one_pot_others,6986107,McCormick UGC One Pot Others,feature_page
+600,mc_breakfast_easy,6683353,MC Breakfast Easy,feature_page
+625,valentines_day,64480,Valentine's Day,holiday
+638,microplane,1280509,Microplane,equipment
+646,3_musketeers,6361701,3 Musketeers,feature_page
+664,live_shop_all,7560083,Live Shop All,feature_page
+711,walmart_holiday_bundle,4708980,Walmart Holiday Bundle,business_tags
+725,budget_four,6830252,Budget Four,feature_page
+726,mc_breakfast_sweet,6683350,MC Breakfast Sweet,feature_page
+792,mexican,64457,Mexican,cuisine
+805,spring,64509,Spring,seasonal
+814,live_jasmine_and_tucker,7560081,Live Jasmine and Tucker,feature_page
+842,italian,64453,Italian,cuisine
+854,mc_breakfast_savory,6683351,MC Breakfast Savory,feature_page
+857,pie_dish,1247782,Pie Dish,equipment
+863,lunch,64489,Lunch,meal
+885,cheese_grater,1247769,Cheese Grater,equipment
+919,fall,64508,Fall,seasonal
+923,thanksgiving,64479,Thanksgiving,holiday
+927,tasty_cookbook,64506,Tasty Cookbook,business_tags
+1033,light_bites,5949791,Light Bites,business_tags
+1101,tasty_s_5th_birthday_savory,5993379,Tasty's 5th Birthday: Savory,feature_page
+1102,tasty_s_5th_birthday_recipe,5923249,Tasty's 5th Birthday: Recipe,feature_page
+1103,one_top_friendly,1691103,One Top Friendly,business_tags
+1190,peeler,1247781,Peeler,equipment
+1232,german,64450,German,cuisine
+1234,food_processor,65842,Food Processor,appliance
+1243,ice_cream_scoop,1247772,Ice Cream Scoop,equipment
+1295,meal_prep,65853,Meal Prep,cooking_style
+1308,dinner,64486,Dinner,meal
+1314,one_top_app_steak,2651761,Steak,business_tags
+1316,one_top_app_eggs,2651754,Eggs,business_tags
+1319,one_top_app_veggies,2651756,Veggies,business_tags
+1338,mc_breakfast_healthy,6683352,MC Breakfast Healthy,feature_page
+1342,mashup,65852,Mashup,dish_style
+1365,appetizers,64481,Appetizers,meal
+1420,snickers,6361700,Snickers,feature_page
+1493,hershey_s,6361740,Hershey's,feature_page
+1535,sides,64490,Sides,meal
+1544,spring_sides,6718875,Spring Sides,feature_page
+1553,fourth_of_july,64475,Fourth of July,holiday
+1554,easter,64474,Easter,holiday
+1589,african,3801553,African,cuisine
+1599,middle_eastern,64458,Middle Eastern,cuisine
+1601,sponsored_recipe,4202175,Sponsored Recipe,business_tags
+1614,paper_napkins,1247778,Paper Napkins,equipment
+1725,summer_sides,7041323,Summer Sides,feature_page
+1726,fourth_sides,7041339,Fourth Sides,feature_page
+1731,bbq,64504,BBQ,occasion
+1834,zipper_freezer_bags,1247795,Zipper Freezer Bags,equipment
+1837,wax_paper,1247792,Wax Paper,equipment
+1857,tupperware,1247791,Tupperware,equipment
+1968,oh_so_rose,5923247,Oh So Rosé,business_tags
+2093,ice_cube_tray,1247773,Ice Cube Tray,equipment
+2094,lollipop_sticks,1247774,Lollipop Sticks,equipment
+2167,peppermint_pattie,6361741,Peppermint Pattie,feature_page
+2206,halloween,64476,Halloween,holiday
+2255,game_day,64501,Game Day,occasion
+2387,deep_fry,64493,Deep-Fry,method
+2391,chop_champ,3028912,Chop Champ,business_tags
+2427,latin_american,64456,Latin American,cuisine
+2503,tasty_ewd_fifteen,6117479,Tasty EWD Fifteen,feature_page
+2544,kitchen_shears,1280505,Kitchen Shears,equipment
+2958,pride_month,3802078,Pride Month,holiday
+3112,asian_pacific_american_heritage_month,3802077,Asian Pacific American Heritage Month,holiday
+3234,grill,64494,Grill,method
+3291,spider,1280514,Spider,equipment
+3492,dominican,6953047,Dominican,cuisine
+3493,black_history_month,3802076,Black History Month,holiday
+3708,tasty_holiday_nye,6389774,Tasty Holiday: NYE,feature_page
+3735,qfp_baking,5812431,Quarantine Cooking: Baking,feature_page
+3826,budget_10,6830248,Budget 10,feature_page
+3885,holiday_treats,6337137,Holiday Treats,business_tags
+3940,pescatarian,3801552,Pescatarian,dietary
+3951,seafood,64459,Seafood,cuisine
+4279,broiler,65839,Broiler,appliance
+4354,chinese,64448,Chinese,cuisine
+4400,greek,64451,Greek,cuisine
+5226,shoppable_recipes_meal_prep,7336055,Shoppable Recipes Meal Prep,feature_page
+5227,nynm_meal_prep,6543466,NYNM Meal Prep,feature_page
+5320,almond_joy,6361699,Almond Joy,feature_page
+5359,cinco_de_mayo,6854261,Cinco de Mayo,holiday
+5491,frank_s_vegetarian_snacks,6477325,Frank's Vegetarian Snacks,feature_page
+5492,mccormick_game_day,5143246,McCormick Game Day,business_tags
+5508,every_occasion,6143339,Every Occasion,business_tags
+5509,contains_alcohol,5285641,Contains Alcohol,dietary
+5546,eko_video,5831533,Eko Video,business_tags
+5820,indian,64452,Indian,cuisine
+5880,paper_bowls,1247776,Paper Bowls,equipment
+5892,slow_cooker,65847,Slow Cooker,appliance
+5941,tips_hacks,6718865,Tips Hacks,feature_page
+6438,steam,64498,Steam,cooking_style
+6443,stuffed,65856,Stuffed,cooking_style
+6623,licensed_video,1036859,Licensed Video,business_tags
+6659,tastyjunior,4767341,tastyjunior,business_tags
+6703,happy_hour,64502,Happy Hour,occasion
+7113,dutch_oven,65841,Dutch Oven,appliance
+7174,colander,1247770,Colander,equipment
+7251,mccormick_seasoned_pro,3956651,McCormick Seasoned Pro,business_tags
+7488,st_patrick_s_day,6711300,St. Patrick's Day,holiday
+7575,caribbean,3801554,Caribbean,cuisine
+8282,tasty_ewd_tips,6117480,Tasty EWD Tips,feature_page
+8458,filipino,6953008,Filipino,cuisine
+8534,latinx_heritage_month,7145248,Latinx Heritage Month,holiday
+8613,taiwanese,6953039,Taiwanese,cuisine
+8641,korean,64455,Korean,cuisine
+8779,air_fryer,6931167,Air Fryer,appliance
+8941,one_top_app_dessert,2651758,Dessert,business_tags
+8964,jamaican,6953049,Jamaican,cuisine
+9023,brunch,189013,brunch,meal
+9751,shoppable_recipes_family_dinner,7336056,Shoppable Recipes Family Dinner,feature_page
+9755,mccormick_easy_dinner,5143247,McCormick Easy Dinner,business_tags
+9813,mccormick_ugc_one_pot_pasta,6986105,McCormick UGC One Pot Pasta,feature_page
+9835,tasty_ewd_comfort,6807663,Tasty EWD Comfort,feature_page
+9921,tasty_ewd_fall,6117478,Tasty EWD Fall,feature_page
+9971,lunar_new_year,6573766,Lunar New Year,holiday
+9972,tasty_ewd_healthy,6117476,Tasty EWD Healthy,feature_page
+10008,wok,65849,Wok,appliance
+10100,swedish,6953040,Swedish,cuisine
+10120,tasty_holiday_christmas,6389772,Tasty Holiday: Christmas,feature_page
+10276,game_day,64501,Game Day,holiday
+10761,mccormick_ugc_one_pot_slow,6986106,McCormick UGC One Pot Slow,feature_page
+10808,nynm_veggie,6543461,NYNM Veggie,feature_page
+10999,mccormick_world_hearty,8104111,McCormick World Hearty,feature_page
+11189,mccormick_world_vegetarian,8104112,McCormick World Vegetarian,feature_page
+11924,club_house_seasoned_pro,3956653,Club House Seasoned Pro,business_tags
+11925,schwartz_seasoned_pro,3956652,Schwartz Seasoned Pro,business_tags
+11947,srsly_sauv_blanc,5923248,Srsly Sauv Blanc,business_tags
+11960,deep_fry,64493,Deep-Fry,cooking_style
+12180,west_african,6953016,West African,cuisine
+12357,fourth_eat,7041337,Fourth Eat,feature_page
+13058,thai,64460,Thai,cuisine
+13106,uber_game_day_ribs,7436546,Uber Game Day Ribs,feature_page
+13772,passover,6742797,Passover,holiday
+14376,one_top_app_seafood,2651755,Seafood,business_tags
+14430,spring_eat,6718869,Spring Eat,feature_page
+14819,franks_handheld_bites,7723151,Franks Handheld Bites,feature_page
+15800,vietnamese,64461,Vietnamese,cuisine
+15983,shoppable_recipes_holiday_dinners,7559500,Shoppable Recipes Holiday Dinners,feature_page
+15984,thanksgiving_vegetarian,7510773,Thanksgiving Vegetarian,feature_page
+16013,thanksgiving_classics,7510744,Thanksgiving Classics,feature_page
+16047,shoppable_recipes_thanksgiving,7559499,Shoppable Recipes Thanksgiving,feature_page
+16049,tasty_holiday_thanksgiving,6389771,Tasty Holiday: Thanksgiving,feature_page
+16167,summer_holiday,7041322,Summer Holiday,feature_page
+16269,one_top_app_meat,2651753,Meat,business_tags
+16418,peruvian,6953044,Peruvian,cuisine
+17028,beyond_red_blend,5923246,Beyond Red Blend,business_tags
+19117,plastic_utensils,1247783,Plastic Utensils,equipment
+21403,brazilian,64446,Brazilian,cuisine
+21721,one_top_app_grains,2651759,Grains,business_tags
+21725,one_top_app_sides,2651757,Sides,business_tags
+22835,thanksgiving_sides,7510745,Thanksgiving Sides,feature_page
+23531,grill,64494,Grill,cooking_style
+23991,frank_s_chicken_bites,6477316,Frank's Chicken Bites,feature_page
+24334,bbq,64445,BBQ,cuisine
+24851,kenyan,6953014,Kenyan,cuisine
+25422,franks_spicy_bites,7723148,Franks Spicy Bites,feature_page
+25541,tasty_holiday_hanukkah,6389773,Tasty Holiday: Hanukkah,feature_page
+25803,paper_plates,1247779,Paper Plates,equipment
+25817,instant_pot,4767336,Instant Pot,appliance
+25873,paper_cups,1247777,Paper Cups,equipment
+26416,haitian,6953041,Haitian,cuisine
+26621,frank_s_cheesy_apps,6477317,Frank's Cheesy Apps,feature_page
+29403,persian,6953042,Persian,cuisine
+29561,one_top_app_sauces,2651760,Sauces,business_tags
+30487,ethiopian,6953013,Ethiopian,cuisine
+31192,mccormick_world_sides,8104110,McCormick World Sides,feature_page
+31953,summer_eat,7041320,Summer Eat,feature_page
+32463,pressure_cooker,4767335,Pressure Cooker,appliance
+34885,cuban,6953048,Cuban,cuisine
+35526,puerto_rican,6953050,Puerto Rican,cuisine
+35561,soul_food,6953051,Soul Food,cuisine
+37089,indigenous,6953045,Indigenous,cuisine
+37484,laotian,6953046,Laotian,cuisine
+37504,mccormick_ugc_one_pot_winners,6986104,McCormick UGC One Pot Winners,feature_page
+38217,holiday_cookie_recipe,3527977,Holiday Cookie: Recipe,feature_page
+38360,shoppable_recipes_seasonal_desserts,7559501,Shoppable Recipes Seasonal Desserts,feature_page
+38474,fourth_desserts,7041340,Fourth Desserts,feature_page
+38680,charcuterie_sweetchuterie,8030030,Charcuterie Sweetchuterie,feature_page
+38809,holiday_cookie_howto,3527978,Holiday Cookie: How To,feature_page
+39265,nynm_desserts,6543465,NYNM Desserts,feature_page
+39620,one_top_app_main_feed,2651752,Main Feed,business_tags
+39724,thanksgiving_desserts,7510771,Thanksgiving Desserts,feature_page
+40117,tasty_holiday_snacks,6433722,Tasty Holiday: Snacks,feature_page
+40286,summer_desserts,7041324,Summer Desserts,feature_page
+40380,fourth_picks,7041336,Fourth Picks,feature_page
+40892,thanksgiving_sips,7510772,Thanksgiving Sips,feature_page
+41942,mccormick_world_desserts,8104113,McCormick World Desserts,feature_page
+42343,ice_cream_social,3801551,Ice Cream Social,business_tags
+49933,tasty_holiday_festive_favorites,6389775,Tasty Holiday: Festive Favorites,feature_page
+51779,charcuterie_dips,8030029,Charcuterie Dips,feature_page
+55516,picnic,188969,picnic,occasion
+58734,charcuterie_inspiration,7987314,Charcuterie Inspiration,feature_page
+58965,hawaiian,6953012,Hawaiian,cuisine
+59181,butterfinger_other_recipes,7783334,Butterfinger Other Recipes,feature_page
+59230,butterfinger_winner,7783331,Butterfinger Winner,feature_page
+60837,juneteenth,8227134,Juneteenth,holiday
+60863,walmart_plus_holiday_2020,6207870,Walmart Plus Holiday 2020,business_tags
+61534,no_bake_desserts,188968,no_bake_desserts,method
+62045,party,188970,party,occasion
+62213,hispanic_heritage_month,3802079,Hispanic Heritage Month,holiday
+62482,butterfinger_runner_up_cookies,7783332,Butterfinger Runner Up Cookies,feature_page
+62517,butterfinger_runner_up_bark,7783333,Butterfinger Runner Up Bark,feature_page
+63264,charcuterie_appetizers,8030031,Charcuterie Appetizers,feature_page
+63307,shoppable_recipes_holiday_appetizers,7608068,Shoppable Recipes Holiday Appetizers,feature_page
+65940,uber_game_day_dips,7436545,Uber Game Day Dips,feature_page
+66245,uber_game_day_sliders,7436547,Uber Game Day Sliders,feature_page
+66304,uber_game_day_appetizers,7436544,Uber Game Day Appetizers,feature_page
+66888,charcuterie_recipes,7987316,Charcuterie Recipes,feature_page
+67925,franks_dips,7723150,Franks Dips,feature_page
+74459,lebanese,6953043,Lebanese,cuisine
+76508,south_african,6953015,South African,cuisine
+77261,venezuelan,6953052,Venezuelan,cuisine

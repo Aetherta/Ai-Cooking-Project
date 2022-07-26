@@ -9,6 +9,7 @@
   "eos_token_id": 0,
   "initializer_range": 0.02,
   "layer_norm_epsilon": 1e-05,
+  "line_by_line": false,
   "model_type": "gpt2",
   "n_ctx": 64,
   "n_embd": 128,

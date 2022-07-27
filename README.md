@@ -7,8 +7,7 @@ To ensure your reciepies are coherent, please use the master branch only.
 If you wish to generate some odd results, feel free to play around with the other branches
 
 
----- IMPORTANT ----
-Before running any promopts, make sure the training module is commented out, otherwise
+IMPORTANT: Before running any promopts, make sure the training module is commented out, otherwise
 the notebook will replace the previously generated model and train it again.
 
 

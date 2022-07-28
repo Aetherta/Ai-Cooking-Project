@@ -1,14 +1,6 @@
-# Your computer is now a chef of questionable quality
+# Ai-Cooking-Project
 
-We're teaching an AI model to cook, if the results are edible is.. undetermined, for now.
+This version appears to be substantially less accuracte than the original model, despite having higher quality data. I will retrain 
+the model tommorrow with the paramaters of the first successful model, but with new data, to comapre the results. 
 
-I will be training the model on a wide variety of parameters.
-To ensure your reciepies are coherent, please use the master branch only. 
-If you wish to generate some odd results, feel free to play around with the other branches
-
-
-IMPORTANT: Before running any promopts, make sure the training module is commented out, otherwise
-the notebook will replace the previously generated model and train it again.
-
-
-Enjoy
+If you wish to use the contents of this project, do not clone this branch. Instead, ONLY use the master.
